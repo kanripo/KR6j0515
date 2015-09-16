@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說聖寶藏神儀軌經
+#+DATE: 2015-08-30 20:34:01.150942
+#+PROPERTY: JUAN 0
