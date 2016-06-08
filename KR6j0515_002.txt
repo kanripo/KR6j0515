@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:00.920760
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:21
 #+TITLE: 佛說聖寶藏神儀軌經
 #+PROPERTY: CBETA_ID T21n1284
 #+PROPERTY: ID KR6j0515
