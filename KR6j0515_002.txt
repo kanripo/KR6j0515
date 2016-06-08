@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:00.920760
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:21
 #+TITLE: 佛說聖寶藏神儀軌經
 #+PROPERTY: CBETA_ID T21n1284
 #+PROPERTY: ID KR6j0515
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1284
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0515_T_000-0349a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0515_T_002-0352a> ¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 佛說聖寶藏神儀軌經卷下¶
+佛說聖寶藏神儀軌經卷下¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 傳教大師臣法天奉　詔譯¶
